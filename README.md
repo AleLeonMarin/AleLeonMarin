@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there👋, I'm Alejandro León Marín </h1>
-    <h4>I'm a Systems and Informatic Engineering student from Costa Rica<h4>
+    <h2>I'm a Systems and Informatic Engineering student from Costa Rica<h2>
     <h3>FullStack developer</h3>
 </div>
 <div align="center">
