@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there👋, I'm Alejandro León Marín </h1>
-    <h2>FullStack developer</h2>
+    <h3>FullStack developer</h3>
 </div>  
 
 <div align="center">
