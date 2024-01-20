@@ -3,7 +3,7 @@
     <i>I'm a Systems and Informatic Engineering student from Costa Rica<i>
 </div>
     <div id="2nd header" align= "center">
-         <h3>FullStack developer</h3>
+         <h2>FullStack developer</h2>
         <div>
 <div align="center">
     <i>Still learning and passionate for what I am doing </i>
