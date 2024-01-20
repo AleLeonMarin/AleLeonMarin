@@ -6,7 +6,7 @@
     </div>
 <div align="center">
      <i>I'm a Systems and Informatic Engineering student from Costa Rica</i> 
-    <i>Still learning and passionate for what I am doing </i>
+            <i>Still learning and passionate for what I am doing </i>
 </div>
 <br/>
 🌟 About Me:
