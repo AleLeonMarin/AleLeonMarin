@@ -2,11 +2,11 @@
     <h1>Hi there👋, I'm Alejandro León Marín </h1>
 </div>
         <div id="header" align="center">
-    <h2>I'm a Systems and Informatic Engineering student from Costa Rica<h2>
+    <h3>I'm a Systems and Informatic Engineering student from Costa Rica</h3>  
 </div>
     <div id="header" align= "center">
          <h2>FullStack developer</h2>
-        <div>
+    <div>
 <div align="center">
     <i>Still learning and passionate for what I am doing </i>
 </div>
