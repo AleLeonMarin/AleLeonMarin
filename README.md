@@ -32,5 +32,5 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" **alt="LaTex" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" **alt="Swift" width="40" height="40"/>
 </p>
