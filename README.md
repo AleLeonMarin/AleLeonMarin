@@ -12,7 +12,7 @@
 <br/>
 🌟 About Me:
 
-    📚 Coursing 2nd year of Systems Engineering at the National University of Costa Rica.
+    📚 Coursing 3rd year of Systems Engineering at the National University of Costa Rica.
     🔭 I'm currently developing my Web Page and University projects.
     🌱 Learning React.js, MongoDB and Swift.
     📫 Reach me at: aleleonmarin01@gmail.com 
