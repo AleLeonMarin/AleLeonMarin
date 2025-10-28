@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Alejandro León Marín</h1>
-<h3 align="center">Passionate FullStack Developer | 3rd Year Systems Engineering Student at UNA</h3>
+<h3 align="center">Passionate Backend Developer | 3rd Year Systems Engineering Student at UNA</h3>
 
 <p align="center">
-🚀 Currently building the <a href="https://parkxpress.vercel.app" target="_blank">Park Xpress System</a> and <a href="https://exploradorescr.vercel.app" target="_blank">Museo Pequeños Exploradores de Costa Rica</a> <br>
-🌱 Learning <strong>Kotlin, Dart, Non-relational databases, and more</strong> <br>
-💬 Ask me about my projects, or feel free to reach out! <br>
+🚀 Creator of the <a href="https://exploradorescr.vercel.app" target="_blank">Museo Pequeños Exploradores de Costa Rica</a>, a completed and published educational web project for kids. <br>
+🌱 Learning <strong>C#, Azure, Non-relational databases, and more</strong> <br>
+💬 Backend development is my strong suit — frontend isn’t my strongest area, but I keep improving and learning more about it with every project. <br>
 📫 Reach me at: <strong>aleleonmarin01@gmail.com</strong>
 </p>
 
@@ -29,7 +29,8 @@
 - Cisco Certified:  
   - **Linux Essentials**  
   - **Linux Unhatched**  
-  - **Operating Systems Basics**  
+  - **Operating Systems Basics**
+  - **Scrum Master Certification**
 
 ---
 
@@ -59,24 +60,17 @@
   <img src="https://img.icons8.com/?size=100&id=EzmQwT9W9uy4&format=png&color=000000" alt="ChatGPT" width="40" height="40"/>
 </p>
 
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleleonmarin&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleleonmarin&theme=dark&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ### 📂 Projects
-- 🔗 <a href="https://aleleonmarin.vercel.app" target="_blank">Portfolio</a> - All my projects and personal works
+- 🔗 <a href="https://aleleonmarin.vercel.app" target="_blank">Portfolio</a> – All my projects and personal works  
+- 🏛️ <a href="https://exploradorescr.vercel.app" target="_blank">Museo Pequeños Exploradores de Costa Rica</a> – Completed educational project for children and families  
 
 ---
 
 ### 💡 Fun Facts
 - 🎸 I am also a musician and love creating and playing music.  
+- 📷 I enjoy photography and capturing moments from my travels and daily life.  
 - 🤖 I enjoy exploring AI applications and integrating them into real-world projects.  
 - 💻 I love learning new programming languages and experimenting with different technologies.  
 - 🎧 Coding while listening to good music keeps me motivated and focused.  
@@ -84,6 +78,7 @@
 - 🚀 I am passionate about automating workflows and optimizing processes.  
 
 ---
+
 ### 🤝 Let's Connect
 
 Ready to build something amazing together? Whether it's collaborating on innovative projects, brainstorming the next big idea, or just geeking out over tech, I'd love to connect!
